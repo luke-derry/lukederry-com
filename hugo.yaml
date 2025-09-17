@@ -1,4 +1,4 @@
-baseurl: "https://www.lukederry.com/"  # please update this to your actual URL
+baseurl: "https://www.lukederry.com/"  
 languageCode: "en-us"
 title: "Luke derry's site"
 theme: "hugo-xmin"
@@ -16,21 +16,13 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
+    - name: Talks
+      url: "/talks/"
       weight: 2
-    - name: Categories
-      url: "categories/"
-      weight: 3
-    - name: Tags
-      url: "tags/"
-      weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  author: "Luke Derry"
+  description: "Luke Derry's personal website."
 
 markup:
   highlight:
