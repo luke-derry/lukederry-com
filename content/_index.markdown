@@ -11,7 +11,7 @@ title: Home
 I'm a third-year PhD Student in the [Analysis research group]("https://sta-analysis.github.io") at the University of St Andrews. My supervisors are [Lars Olsen]("https://www.st-andrews.ac.uk/mathematics-statistics/people/lo") and [Natalia Jurga]("https://www.nataliajurga.co.uk"). My research interests are in geometric measure theory and fractal geometry.
 
 
-#Contact
+#Contact Information
 
 lajd1@st-andrews.ac.uk
 Room 201, Mathematics Institute
